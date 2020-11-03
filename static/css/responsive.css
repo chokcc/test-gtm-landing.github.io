@@ -1,0 +1,40 @@
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.responsive-img {
+    width: 100%;
+    height: auto;
+}
+
+.responsive-img-1 {
+    width: 100%;
+    max-width: 1600px;
+    height: auto;
+}
+
+.responsive-img-2 {
+    width: 100%;
+    max-width: 1080px;
+    height: auto;
+}
+
+.responsive-img-3 {
+    width: 100%;
+    max-width: 1388px;
+    height: auto;
+}
+.responsive-img-4 {
+    width: auto;
+    height: 80%;
+}

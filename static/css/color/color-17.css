@@ -1,0 +1,78 @@
+a {
+  color: #b71c1c;
+  text-decoration: none;
+}
+a:hover,
+a:focus,
+a:active {
+  color: #b71c1c;
+  text-decoration: none;
+}
+
+
+.header-with-topbar .navbar-nav .nav-link.active,
+.header-white .navbar-nav .nav-link.active,
+.header-transparent .navbar-nav .nav-link.active,
+.header-transparent-dark .navbar-nav .nav-link.active,
+.portfolio-filter-01 .filter li.active,
+.list-style-theme li:before,
+.color-theme {
+  color: #b71c1c; 
+}
+
+
+.progress-levels .progress-box .bar .bar-fill,
+.progress-levels .progress-box .bar .bar-fill:after,
+.header-style-02 .navbar .top-menu .nav-link:hover:after,
+.header-style-02 .navbar .top-menu .nav-link.active:after,
+.list-style-2 li:before,
+.list-style-3 li:before,
+.accordion-04 .mrig-heading,
+.accordion-05 .mrig-heading,
+.accordion-06 .mrig-heading,
+.accordion-07 .mrig-heading,
+.theme-bg,
+.m-btn-icon,
+.m-btn,
+.badge-primary, 
+.nav-pills .nav-link.active, 
+.nav-pills .show > .nav-link, 
+.bg-primary,
+.btn-primary,
+.pagination > .active > a, 
+.pagination > .active > a:focus, 
+.pagination > .active > a:hover, 
+.pagination > .active > span, 
+.pagination > .active > span:focus, 
+.pagination > .active > span:hover,
+.pagination li a:focus, 
+.pagination li a:hover, 
+.pagination li span:focus, 
+.pagination li span:hover,
+.page-item.active .page-link,
+.list-style-tag li a,
+.theme-bg-on-hover:hover .theme-bg-hover,
+.portfolio-filter-01 .filter li:after {
+  background-color: #b71c1c;
+}
+
+.btn-primary,
+.m-btn,
+.list-style-4.list-style-color li {
+  border-color: #b71c1c;  
+}
+
+.border-theme { border-color: #b71c1c; }
+.border-theme-b { border-bottom-color: #b71c1c; }
+.border-theme-t { border-top-color: #b71c1c; }
+.border-theme-l { border-left-color: #b71c1c; }
+.border-theme-r { border-right-color: #b71c1c; }
+
+
+.theme-g-bg{
+  background: #b71c1c;
+  background: -moz-linear-gradient(left, #b71c1c 0%, #000 100%);
+  background: -webkit-linear-gradient(left, #b71c1c 0%,#000 100%);
+  background: linear-gradient(to right, #b71c1c 0%,#000 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b71c1c', endColorstr='#000',GradientType=1 );
+}
